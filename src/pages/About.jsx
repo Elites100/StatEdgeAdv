@@ -147,7 +147,7 @@ const About = () => {
                 </li>
                 <li className="flex items-center gap-2">
                   <span className="text-primary">•</span>
-                  TypeScript
+                  JavaScript (JSX)
                 </li>
                 <li className="flex items-center gap-2">
                   <span className="text-primary">•</span>
