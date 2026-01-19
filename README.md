@@ -102,19 +102,6 @@ src/
 └── main.jsx            # Entry point
 ```
 
-## Deployment
-
-### Deploy to Vercel
-
-1. Push your code to GitHub
-2. Visit [vercel.com](https://vercel.com) and sign in
-3. Click "Add New..." → "Project"
-4. Import your GitHub repository
-5. Vercel will auto-detect the Vite configuration
-6. Click "Deploy"
-
-Your site will be live and automatically redeploy on every push to main.
-
 ### Deploy to Other Platforms
 
 The `npm run build` command generates a `dist` folder that can be deployed to any static hosting service (Netlify, GitHub Pages, etc.).
